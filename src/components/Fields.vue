@@ -52,7 +52,7 @@ export default {
   data() {
     return {
       numbers: 2, // you can add more values here or through browser
-      signs: ["+", "-"], // you can more signs here
+      signs: ["+", "-"], // you can add more signs here
       numberOfFields: 10, // initial value | set by task
       markArray: [],
       fields: {
